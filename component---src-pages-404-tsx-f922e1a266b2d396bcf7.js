@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{PGGC:function(n,t,e){},"i6+/":function(n,t,e){"use strict";e.r(t);var o=e("q1tI"),u=e("soUV");e("PGGC");t.default=function(n){return o.createElement(u.a,null)}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-f922e1a266b2d396bcf7.js.map
